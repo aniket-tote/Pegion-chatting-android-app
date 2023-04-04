@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "733659602631",
+    "project_id": "letstalk-5a26e",
+    "storage_bucket": "letstalk-5a26e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733659602631:android:a9be9492e3c54d70c568e2",
+        "android_client_info": {
+          "package_name": "com.Aniket.example.letstalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733659602631-u1u3deekrici1mratlo6j2t2n0g7mpui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHp_Cp3YsXON15vhXRj7NN8bfNg2ghI9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733659602631-u1u3deekrici1mratlo6j2t2n0g7mpui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
